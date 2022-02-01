@@ -5,7 +5,7 @@ function Content(props) {
     <div className="container">
       <div className="content-box text-white">
         <h4>{props.title}</h4>
-        <p>{props.article}</p>
+        <p>{props.content}</p>
       </div>
     </div>
   )

@@ -109,18 +109,16 @@ img {
 }
 
 /* Section styling */
-.about-box {
-  margin-block: 3rem;
+.content-box {
+  margin-block: 1.5rem;
 }
 
-.about-box p,
-.interest-box p {
+.content-box p {
   font-size: 14px;
   line-height: 15px;
   letter-spacing: 0em;
 }
-.about-box,
-.interest-box h4 {
+.content-box h4 {
   font-size: 1.125rem;
 }
 .footer {
@@ -147,13 +145,11 @@ img {
     max-width: 500px;
     padding: 1rem;
   }
-  .about-box p,
-  .interest-box p {
+  .content-box p {
     font-size: 1.15rem;
     line-height: 1;
   }
-  .about-box h4,
-  .interest-box h4 {
+  .content-box h4 {
     font-size: 1.5rem;
   }
   .info-box--header {

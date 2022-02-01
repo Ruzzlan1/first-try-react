@@ -4,5 +4,6 @@
     "no-unused-vars": "off",
     "comma-dangle": "off",
     "arrow-body-style": "off"
-  }
+  },
+  "react/prop-types": ["ignore"]
 }
